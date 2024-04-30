@@ -1,11 +1,11 @@
-Full_Name,Date_of_Birth,Gender,Email,Phone_Number,Address,Existing_Medical_Conditions,Current_Medications,Past_Surgeries,Diet,Smoke,Alcohol,Physical_Exercise,Family_Health_Issues
-Stacy Nicholson,2001-12-31,Other,williamsheather@yahoo.com,299-021-2780x080,"404 Natalie Canyon, North Markborough, AK 58374",None,Metformin,None,Vegan,"Yes, regularly","Yes, regularly",Rarely or never,None
-Mr. Ryan Stone,1956-06-19,Female,christine71@wilkins.com,064-003-9619x764,"60524 Michelle Union Apt. 595, Smithfurt, OH 64084",None,None,None,Balanced,No,No,5 or more times per week,None
-David Bell,1977-04-08,Other,zcampbell@gmail.com,001-832-149-2109,"120 Rebecca Ranch, Bakerborough, MI 55525",Hypertension,None,Gallbladder removal,Vegetarian,"Yes, regularly","Yes, regularly",3-4 times per week,None
-Shane Roberts,1967-03-29,Other,xromero@hotmail.com,(346)105-6265x87172,"21111 Shannon Throughway, Juanville, MA 93294",None,None,Appendectomy,Balanced,"Yes, regularly","Yes, occasionally",3-4 times per week,Cancer
-Johnny Lawrence,1952-07-07,Male,kandrews@hotmail.com,546.753.8655x485,"3657 Jimenez Islands Suite 573, Kelliton, NJ 80403",None,Metformin,None,Balanced,No,No,1-2 times per week,Heart Disease
-Anthony Bird,1992-05-31,Other,williamdawson@sanchez-hernandez.net,711-159-5683x1935,"PSC 4460, Box 5194, APO AA 64610",None,None,None,Balanced,No,"Yes, occasionally",5 or more times per week,Heart Disease
-Xavier Davidson,2001-01-20,Male,sherry27@gmail.com,493-749-8626,"323 Jonathan Rest, Ernestmouth, RI 42515",None,None,None,Balanced,No,"Yes, regularly",Rarely or never,None
-Yvonne Patterson,1975-06-01,Other,luis43@yahoo.com,001-976-540-6832x4510,"3583 Hicks Square, East Andrew, ID 62472",None,None,Gallbladder removal,Vegan,"Yes, regularly",No,3-4 times per week,None
-Kirk Reed,1971-08-24,Other,thomasmartin@hotmail.com,(358)322-0634,"44022 Williams Port, Nguyenbury, HI 63573",None,None,Appendectomy,Balanced,No,"Yes, regularly",5 or more times per week,None
-Alexandra Boyd,1971-10-26,Male,lori65@yahoo.com,(407)160-6823x584,"8723 Nicholas View Suite 266, Coxfurt, SD 99908",None,Metformin,Appendectomy,Balanced,No,"Yes, occasionally",5 or more times per week,Heart Disease
+Full_Name,Gender,Existing_Medical_Conditions,Current_Medications,Past_Surgeries,Diet,Physical_Exercise,Family_Health_Issues,Age,Smoking Years,Alcohol Consumption
+Stacy Nicholson,Other,None,Metformin,None,Vegan,Rarely or never,None,22,15,Regularly
+Mr. Ryan Stone,Female,None,None,None,Balanced,5 or more times per week,None,67,0,Never
+David Bell,Other,Hypertension,None,Gallbladder removal,Vegetarian,3-4 times per week,None,47,15,Regularly
+Shane Roberts,Other,None,None,Appendectomy,Balanced,3-4 times per week,Cancer,57,15,Occasionally
+Johnny Lawrence,Male,None,Metformin,None,Balanced,1-2 times per week,Heart Disease,71,0,Never
+Anthony Bird,Other,None,None,None,Balanced,5 or more times per week,Heart Disease,31,0,Occasionally
+Xavier Davidson,Male,None,None,None,Balanced,Rarely or never,None,23,0,Regularly
+Yvonne Patterson,Other,None,None,Gallbladder removal,Vegan,3-4 times per week,None,48,15,Never
+Kirk Reed,Other,None,None,Appendectomy,Balanced,5 or more times per week,None,52,0,Regularly
+Alexandra Boyd,Male,None,Metformin,Appendectomy,Balanced,5 or more times per week,Heart Disease,52,0,Occasionally
