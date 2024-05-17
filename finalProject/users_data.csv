@@ -1,0 +1,9 @@
+User,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+Peter ,31.48,No,Yes,Yes,20.0,20.0,Yes,Male,65-69,Black,No,No,Fair,7.0,Yes,No,No
+John,32.14,Yes,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Good,8.0,Yes,No,Yes
+Marry,27.37,No,No,No,0.0,0.0,No,Female,75-79,Black,Yes,Yes,Good,8.0,No,No,No
+Gracy,36.52,No,No,No,2.0,0.0,Yes,Female,65-69,White,Yes,Yes,Good,9.0,No,No,No
+Rose,29.86,Yes,No,No,0.0,0.0,Yes,Female,75-79,Black,Yes,No,Fair,5.0,No,Yes,No
+Paul,18.13,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Excellent,8.0,No,No,Yes
+Mark,31.46,Yes,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Very good,8.0,No,No,No
+Laura,24.21,No,No,No,3.0,0.0,No,Female,50-54,Black,No,Yes,Good,8.0,No,No,No
